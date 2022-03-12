@@ -34,7 +34,7 @@ console.log("poseNet working");
 
 function draw(){
 image(video,0,0,400,400);
-image(clown_nose,nose_x-13,nose_y,25,25);
+image(clown_nose,nose_x-30,nose_y,70,30);
 }
 
 function takesnapshot(){
